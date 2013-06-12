@@ -30,5 +30,5 @@ done
 echo "3- run $2"
 echo 
 
-gologolo $LIBS $2
+golo golo --files $LIBS $2
 
